@@ -1,4 +1,4 @@
-package com.bikerapp.naming_server.naming_server;
+package com.bikerapp.naming_server;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

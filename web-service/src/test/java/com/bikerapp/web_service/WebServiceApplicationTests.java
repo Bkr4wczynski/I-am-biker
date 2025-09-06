@@ -1,4 +1,4 @@
-package com.bikerapp.web_service.web_service;
+package com.bikerapp.web_service;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;

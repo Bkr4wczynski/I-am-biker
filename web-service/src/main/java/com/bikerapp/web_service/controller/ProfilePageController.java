@@ -1,4 +1,4 @@
-package com.bikerapp.web_service.web_service.controller;
+package com.bikerapp.web_service.controller;
 
 import com.bikerapp.web_service.web_service.model.Bike;
 import com.bikerapp.web_service.web_service.model.Engine;
