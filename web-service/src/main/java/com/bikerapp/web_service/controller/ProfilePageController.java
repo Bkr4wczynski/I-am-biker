@@ -1,7 +1,7 @@
 package com.bikerapp.web_service.controller;
 
-import com.bikerapp.web_service.web_service.model.Bike;
-import com.bikerapp.web_service.web_service.model.Engine;
+import com.bikerapp.web_service.model.Bike;
+import com.bikerapp.web_service.model.Engine;
 import org.springframework.stereotype.Controller;
 import org.springframework.ui.Model;
 import org.springframework.web.bind.annotation.GetMapping;
