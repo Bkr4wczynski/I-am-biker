@@ -1,0 +1,3 @@
+setup db
+CREATE DATABASE i_am_biker_db;
+USE i_am_biker_db;
